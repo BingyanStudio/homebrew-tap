@@ -5,25 +5,25 @@ class Bingyan < Formula
 
   on_macos do
     on_arm do
-      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-darwin-arm64/-/@bingyan/cli-darwin-arm64-0.3.0.tgz"
-      sha256 "412accde95d01b05a13d19bd8551271bff07213923f05b11e8c5b15931614fdf"
+      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-darwin-arm64/-/@bingyan/cli-darwin-arm64-0.3.1.tgz"
+      sha256 "5a863162f4d4a0ffa4579c2a53a912dcdeec700f07842e9134de659426cc33e0"
     end
 
     on_intel do
-      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-darwin-x64/-/@bingyan/cli-darwin-x64-0.3.0.tgz"
-      sha256 "4a6bc323d6494e80f7e276f024c33c082e3acb4117f860fd5ca0d0fd6e4a8ac5"
+      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-darwin-x64/-/@bingyan/cli-darwin-x64-0.3.1.tgz"
+      sha256 "48f831db5a46251fc7f91a3af699acd92e79822470e9285be08ac60e3a6834a5"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-linux-arm64/-/@bingyan/cli-linux-arm64-0.3.0.tgz"
-      sha256 "8e3c4182516f9f7765cc8ebc991ceb38789c12efe4791e7b44671b06fb082504"
+      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-linux-arm64/-/@bingyan/cli-linux-arm64-0.3.1.tgz"
+      sha256 "207b73c10748919e2c64d1543332d663f2764af43d11fe9c1688acb6e09c6105"
     end
 
     on_intel do
-      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-linux-x64/-/@bingyan/cli-linux-x64-0.3.0.tgz"
-      sha256 "1193eccfeaa9e49eb8912bb7f5d406f32acddb49e18ecef59bb1e94a6bd6edeb"
+      url "https://npm.cnb.cool/BingyanStudio/open-bingyan-cli/-/packages/@bingyan/cli-linux-x64/-/@bingyan/cli-linux-x64-0.3.1.tgz"
+      sha256 "7a0cdb7630e4d7b920a5933ecd028883d8a814f537230d07e8c6057e240c6472"
     end
   end
 
